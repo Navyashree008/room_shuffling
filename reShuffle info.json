@@ -1,0 +1,128 @@
+[
+    {
+        "name": "rupali",
+        "room_number": 1,
+        "bed_no": 1,
+        "position": "down"
+    },
+    {
+        "name": "pinky",
+        "room_number": 1,
+        "bed_no": 9,
+        "position": "down"
+    },
+    {
+        "name": "veena",
+        "room_number": 1,
+        "bed_no": 3,
+        "position": "down"
+    },
+    {
+        "name": "divya",
+        "room_number": 1,
+        "bed_no": 7,
+        "position": "down"
+    },
+    {
+        "name": "raksha",
+        "room_number": 1,
+        "bed_no": 5,
+        "position": "down"
+    },
+    {
+        "name": "pranjali",
+        "room_number": 1,
+        "bed_no": 8,
+        "position": "upper"
+    },
+    {
+        "name": "navya",
+        "room_number": 1,
+        "bed_no": 4,
+        "position": "upper"
+    },
+    {
+        "name": "poonam",
+        "room_number": 1,
+        "bed_no": 2,
+        "position": "upper"
+    },
+    {
+        "name": "shree",
+        "room_number": 1,
+        "bed_no": 10,
+        "position": "upper"
+    },
+    {
+        "name": "muskaan",
+        "room_number": 1,
+        "bed_no": 6,
+        "position": "upper"
+    },
+    {
+        "name": "deeksha",
+        "room_number": 2,
+        "bed_no": 3,
+        "position": "down"
+    },
+    {
+        "name": "rubina",
+        "room_number": 2,
+        "bed_no": 5,
+        "position": "down"
+    },
+    {
+        "name": "sandya",
+        "room_number": 2,
+        "bed_no": 9,
+        "position": "down"
+    },
+    {
+        "name": "pragna",
+        "room_number": 2,
+        "bed_no": 1,
+        "position": "down"
+    },
+    {
+        "name": "namira",
+        "room_number": 2,
+        "bed_no": 7,
+        "position": "down"
+    },
+    {
+        "name": "naaz",
+        "room_number": 2,
+        "bed_no": 8,
+        "position": "upper"
+    },
+    {
+        "name": "zeba",
+        "room_number": 2,
+        "bed_no": 4,
+        "position": "upper"
+    },
+    {
+        "name": "jyoti",
+        "room_number": 2,
+        "bed_no": 2,
+        "position": "upper"
+    },
+    {
+        "name": "rashmi",
+        "room_number": 2,
+        "bed_no": 10,
+        "position": "upper"
+    },
+    {
+        "name": "sarika",
+        "room_number": 3,
+        "bed_no": 9,
+        "position": "down"
+    },
+    {
+        "name": "kumari",
+        "room_number": 3,
+        "bed_no": 5,
+        "position": "down"
+    }
+]
